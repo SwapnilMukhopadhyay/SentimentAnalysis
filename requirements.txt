@@ -1,0 +1,12 @@
+bs4
+matplotlib
+nltk
+numpy
+pandas
+re
+requests
+seaborn
+selenium
+statistics
+textblob
+time
